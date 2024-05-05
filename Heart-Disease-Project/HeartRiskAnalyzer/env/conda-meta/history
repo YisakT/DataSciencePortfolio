@@ -1,4 +1,4 @@
-==> 2024-05-04 15:08:54 <==
+==> 2024-05-04 19:52:14 <==
 # cmd: C:\Users\yisakg\AppData\Local\anaconda3\Scripts\conda-env-script.py create --prefix ./env -f ../environment.yml
 # conda version: 23.11.0
 +defaults/noarch::argon2-cffi-21.3.0-pyhd3eb1b0_0

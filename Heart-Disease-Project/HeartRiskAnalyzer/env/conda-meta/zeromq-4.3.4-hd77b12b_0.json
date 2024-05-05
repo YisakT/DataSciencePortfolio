@@ -94,7 +94,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:/ci/zeromq_1616055400030/_h_env",
         "sha256": "1e2b42b6170510f5de988ad81736cd8dadd4f331144489489ffe6e989f997379",
-        "sha256_in_prefix": "c85830d5b70392b52b59da3faa7da4e275b6e86993a5a66372852044a01088fb",
+        "sha256_in_prefix": "975e99b31b4ca39a3f306f7e3d5048527d28697737045719c33a05d723b5d0d8",
         "size_in_bytes": 379
       },
       {
@@ -124,7 +124,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:/ci/zeromq_1616055400030/_h_env",
         "sha256": "10727450bed8e97d01dc7fccf039309be3d9c9755e6e4813e77d179054a1132e",
-        "sha256_in_prefix": "49a1dec7cbb944d5cddacfadca28137f1c79abad46726b39d93f95431b84e354",
+        "sha256_in_prefix": "b2dd9b949dfa474bc4c1ff9c1503722b4a43013a8d315313269612f537b7df8f",
         "size_in_bytes": 3943
       },
       {

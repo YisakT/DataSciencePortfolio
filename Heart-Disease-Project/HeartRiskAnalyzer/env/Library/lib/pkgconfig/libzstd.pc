@@ -2,7 +2,7 @@
 #   Copyright (c) Meta Platforms, Inc. and affiliates.
 #   BSD 2-Clause License (https://opensource.org/licenses/bsd-license.php)
 
-prefix=C:/Users/yisakg/Desktop/sample_project_1/Heart-Disease-Project/env/Library
+prefix=C:/Users/yisakg/Desktop/sample_project_1/Projects/DataSciencePortfolio/Heart-Disease-Project/HeartRiskAnalyzer/env/Library
 exec_prefix=${prefix}
 includedir=${prefix}/include
 libdir=${exec_prefix}/lib

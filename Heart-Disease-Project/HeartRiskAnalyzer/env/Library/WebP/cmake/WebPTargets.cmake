@@ -47,7 +47,7 @@ unset(_cmake_expected_targets)
 
 
 # The installation prefix configured by this project.
-set(_IMPORT_PREFIX "C:/Users/yisakg/Desktop/sample_project_1/Heart-Disease-Project/env/Library")
+set(_IMPORT_PREFIX "C:/Users/yisakg/Desktop/sample_project_1/Projects/DataSciencePortfolio/Heart-Disease-Project/HeartRiskAnalyzer/env/Library")
 
 # Create imported target WebP::sharpyuv
 add_library(WebP::sharpyuv SHARED IMPORTED)

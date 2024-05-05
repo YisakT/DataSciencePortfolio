@@ -60,7 +60,7 @@ add_library(libdeflate::libdeflate_shared SHARED IMPORTED)
 
 set_target_properties(libdeflate::libdeflate_shared PROPERTIES
   INTERFACE_COMPILE_DEFINITIONS "LIBDEFLATE_DLL"
-  INTERFACE_INCLUDE_DIRECTORIES "C:/Users/yisakg/Desktop/sample_project_1/Heart-Disease-Project/env/Library/include"
+  INTERFACE_INCLUDE_DIRECTORIES "C:/Users/yisakg/Desktop/sample_project_1/Projects/DataSciencePortfolio/Heart-Disease-Project/HeartRiskAnalyzer/env/Library/include"
 )
 
 # Load information for each installed configuration.

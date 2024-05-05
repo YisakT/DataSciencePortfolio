@@ -1,4 +1,4 @@
-prefix=C:/Users/yisakg/Desktop/sample_project_1/Heart-Disease-Project/env/Library
+prefix=C:/Users/yisakg/Desktop/sample_project_1/Projects/DataSciencePortfolio/Heart-Disease-Project/HeartRiskAnalyzer/env/Library
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

@@ -1,5 +1,5 @@
-EXTRA_INCLUDEPATH += C:/Users/yisakg/Desktop/sample_project_1/Heart-Disease-Project/env\\Library\\include
-EXTRA_LIBDIR += C:/Users/yisakg/Desktop/sample_project_1/Heart-Disease-Project/env\\Library\\lib
+EXTRA_INCLUDEPATH += C:/Users/yisakg/Desktop/sample_project_1/Projects/DataSciencePortfolio/Heart-Disease-Project/HeartRiskAnalyzer/env\\Library\\include
+EXTRA_LIBDIR += C:/Users/yisakg/Desktop/sample_project_1/Projects/DataSciencePortfolio/Heart-Disease-Project/HeartRiskAnalyzer/env\\Library\\lib
 QT_CPU_FEATURES.x86_64 = sse sse2
 QT.global_private.enabled_features = sse2 alloca_malloc_h alloca avx2 dbus gui network release_tools relocatable sql system-zlib testlib widgets xml zstd
 QT.global_private.disabled_features = alloca_h android-style-assets private_tests dbus-linked dlopen gc_binaries intelcet libudev posix_fallocate reduce_exports reduce_relocations stack-protector-strong

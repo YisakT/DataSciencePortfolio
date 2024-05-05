@@ -55,7 +55,7 @@ add_library(libzmq SHARED IMPORTED)
 
 set_target_properties(libzmq PROPERTIES
   INTERFACE_INCLUDE_DIRECTORIES "${_IMPORT_PREFIX}/include"
-  INTERFACE_LINK_LIBRARIES "C:/Users/yisakg/Desktop/sample_project_1/Heart-Disease-Project/env/Library/lib/libsodium.lib;ws2_32;rpcrt4;iphlpapi"
+  INTERFACE_LINK_LIBRARIES "C:/Users/yisakg/Desktop/sample_project_1/Projects/DataSciencePortfolio/Heart-Disease-Project/HeartRiskAnalyzer/env/Library/lib/libsodium.lib;ws2_32;rpcrt4;iphlpapi"
 )
 
 # Create imported target libzmq-static
@@ -64,7 +64,7 @@ add_library(libzmq-static STATIC IMPORTED)
 set_target_properties(libzmq-static PROPERTIES
   INTERFACE_COMPILE_DEFINITIONS "ZMQ_STATIC"
   INTERFACE_INCLUDE_DIRECTORIES "${_IMPORT_PREFIX}/include"
-  INTERFACE_LINK_LIBRARIES "C:/Users/yisakg/Desktop/sample_project_1/Heart-Disease-Project/env/Library/lib/libsodium.lib;ws2_32;rpcrt4;iphlpapi"
+  INTERFACE_LINK_LIBRARIES "C:/Users/yisakg/Desktop/sample_project_1/Projects/DataSciencePortfolio/Heart-Disease-Project/HeartRiskAnalyzer/env/Library/lib/libsodium.lib;ws2_32;rpcrt4;iphlpapi"
 )
 
 if(CMAKE_VERSION VERSION_LESS 2.8.12)

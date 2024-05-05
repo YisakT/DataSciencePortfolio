@@ -87,7 +87,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:/b/abs_9fyursftmc/croot/libdeflate_1695996527220/_h_env",
         "sha256": "f2d2157071df63ff651e3b1b0ca5510c510597d3647ce8aa4fdc58a5fbf54279",
-        "sha256_in_prefix": "b964d73e91b525e81a83c588dbd9b73a49e13bee507d788aaef86c1e641c63f7",
+        "sha256_in_prefix": "bbda6654cb89aa6c3017360b4636405489a8e9a17fd168b71fa620849fa9f4ea",
         "size_in_bytes": 4163
       },
       {
@@ -103,7 +103,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:/b/abs_9fyursftmc/croot/libdeflate_1695996527220/_h_env",
         "sha256": "bf58a27c9b26f80d9e9d204ba8fb3cc16ab3305e38e72dfcb08a9850c06dbb1a",
-        "sha256_in_prefix": "8e47d25a88c508e515879810e7944fb59ba9ff89817ada573c699bbb4431906b",
+        "sha256_in_prefix": "6402f2d5631308ed51efb2637b67e85f9f6070f6231fb63c648931788ed42995",
         "size_in_bytes": 839
       }
     ],

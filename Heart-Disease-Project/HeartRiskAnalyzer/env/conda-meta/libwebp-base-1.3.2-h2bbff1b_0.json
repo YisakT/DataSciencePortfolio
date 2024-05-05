@@ -78,7 +78,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:/b/abs_05b5nut1vk/croot/libwebp-base_1694776939123/_h_env",
         "sha256": "76d632e224b0a92cf2aac98c81d44cf0c12cfdf52b28f228887df7fb847fc1e6",
-        "sha256_in_prefix": "aecee1415080f0d1fe0a1b77d245d6dcaa0cd5aeb6d9c2846c6f4a8a727f8f4d",
+        "sha256_in_prefix": "3610de676c7eeab1ff61eaa405c8543c483730ae8947d567bca000617955c611",
         "size_in_bytes": 5122
       },
       {
@@ -213,7 +213,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:/b/abs_05b5nut1vk/croot/libwebp-base_1694776939123/_h_env",
         "sha256": "f12eea181490d9c49d929b7f189e3719e49784b7e2b7370fa49b7a5edafbb4df",
-        "sha256_in_prefix": "f35a0da7473303674858cbe979c3999cba91703bc92219c40b9c0b7378a20713",
+        "sha256_in_prefix": "8aa4ef747500157957c0257f8984b8b0461ae9e9ddc41fa6e71523e62eabdc9a",
         "size_in_bytes": 328
       },
       {
@@ -222,7 +222,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:/b/abs_05b5nut1vk/croot/libwebp-base_1694776939123/_h_env",
         "sha256": "4c070fee0ecf232fa2a434cd43ab29b1e459f94a93d65ac1b35ec0225aae1df5",
-        "sha256_in_prefix": "05ec12cc1ad3ee0242939f02db75422e6c9049da5b3b5b4d59ee909d23fdf200",
+        "sha256_in_prefix": "47c7000c3349f6838de53086567942c99c30975ab0c6aa5bcd0325d9f8f947aa",
         "size_in_bytes": 343
       },
       {
@@ -231,7 +231,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:/b/abs_05b5nut1vk/croot/libwebp-base_1694776939123/_h_env",
         "sha256": "bd3d171390ff0fb463c4a12879f52265e2c4a35b5a3661b35a76af540ee5e291",
-        "sha256_in_prefix": "2a5af45c3ab02f9dc720fe0c9d838643ce7d8062c97340cb0d17ee0fc9e57878",
+        "sha256_in_prefix": "f49d052a0cac5207982eb46ae0becd5c8c3fd435fb1d3e86b18a9a1631ee1d61",
         "size_in_bytes": 340
       },
       {
@@ -240,7 +240,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:/b/abs_05b5nut1vk/croot/libwebp-base_1694776939123/_h_env",
         "sha256": "dee68bdb22451876edb60ef8642bb0be15a913aca28abb33744045ac1d60fe4b",
-        "sha256_in_prefix": "cdd7316369ca3fef48533eb726e10c2025367018759583844cd1933572d8e331",
+        "sha256_in_prefix": "3312558ec54b034743d70029177a0f524c9bb3045103c219f6fb558e078d89c1",
         "size_in_bytes": 358
       },
       {
@@ -249,7 +249,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:/b/abs_05b5nut1vk/croot/libwebp-base_1694776939123/_h_env",
         "sha256": "b4e2733aa8dab27a1af68d582339324e62f1145036d0a810019d7a05cc0f52fd",
-        "sha256_in_prefix": "1039e7daa45f99cf00e32f50e245bfec6b0d68ba8b6ce1712fa92459a36b1042",
+        "sha256_in_prefix": "6c55e8bf1a558759356aa14d93af5d866ff51b5376b8012d1bf44db1dba83286",
         "size_in_bytes": 375
       }
     ],
